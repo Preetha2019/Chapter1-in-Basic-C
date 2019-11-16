@@ -5,15 +5,15 @@
 * In 1978, Brian Kernighan and Dennis Ritchie produced the first publicly available description of C, now known as the K&R standard.
 * The UNIX operating system, the C compiler, and essentially all UNIX application programs have been written in C. C has now become a widely used professional language for various reasons:
 
- Easy to learn
+  Easy to learn
 
- Structured language
+  Structured language
 
- It produces efficient programs
+  It produces efficient programs
 
- It can handle low-level activities
+  It can handle low-level activities
 
- It can be compiled on a variety of computer platforms
+  It can be compiled on a variety of computer platforms
 
 ####  Facts about C
 * C was invented to write an operating system called UNIX.
@@ -27,15 +27,23 @@
 * C was initially used for system development work, particularly the programs that make-up the operating system. 
 * C was adopted as a system development language because it produces code that runs nearly as fast as the code written in assembly language.
 * _Some examples of the use of C might be:_
- Operating Systems
-*   
- Language Compilers
-*  
- Assemblers
- Text Editors
- Print Spoolers
- Network Drivers
- Modern Programs
- Databases
- Language Interpreters
- Utilities
+
+  Operating Systems
+
+  Language Compilers
+
+  Assemblers
+
+  Text Editors
+
+  Print Spoolers
+
+  Network Drivers
+
+  Modern Programs
+
+  Databases
+
+  Language Interpreters
+
+  Utilities
