@@ -54,12 +54,16 @@
  Some application of C language are given below:
  * Cprogramming language can be used to design the system software like operating system and compiler.
  * To develop application software like database and spread sheets.
- * For Develop _Graphical related application_ like __computer__ and __mobile games__.
+ * For Develop _Graphical related application_ like _computer_ and _mobile games_.
  * To evaluate any kind of mathematical equation use c language.
  * C programming language can be used to design the compilers.
  * Unix Kernal is completely developed in C language.
  * For creating compilers of different language which can take input from other language and convert it into lower level machine development language.
  * C programming language can be used to design operating system.
  * C programming language can be used to design Network Devices.
+ ##### Hint:
  
-_
+   C program should be written into one or more text files with extension ".c"; for example, hello.c. You can
+use "vi", "vim" or any other text editor to write your C program into a file.
+ 
+
