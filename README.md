@@ -9,3 +9,27 @@
  It produces efficient programs
  It can handle low-level activities
  It can be compiled on a variety of computer platforms
+####  Facts about C
+* C was invented to write an operating system called UNIX.
+* C is a successor of B language which was introduced around the early 1970s.
+* The language was formalized in 1988 by the American National Standard Institute (ANSI).
+* The UNIX OS was totally written in C.
+* Today C is the most widely used and popular System Programming Language.
+* Most of the state-of-the-art software have been implemented using C.
+* Today's most popular Linux OS and RDBMS MySQL have been written in C.
+#### Why Use C?
+* C was initially used for system development work, particularly the programs that make-up the operating system. 
+* C was adopted as a system development language because it produces code that runs nearly as fast as the code written in assembly language.
+* _Some examples of the use of C might be:_
+ Operating Systems
+*   
+ Language Compilers
+*  
+ Assemblers
+ Text Editors
+ Print Spoolers
+ Network Drivers
+ Modern Programs
+ Databases
+ Language Interpreters
+ Utilities
